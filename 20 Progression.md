@@ -16,7 +16,4 @@ You don't _have_ to take them, but if you don't, no further Masterworks will be 
 
 Beating the game with all of your unlocked Masterworks unlocks another one until you have them all.
 
-Two of the relics are "prophecies".
-I _think_ you need to fulfil them once (even if you don't win that run) for the grand finale?
-
 With everything unlocked, you'll want to beat the game on each character with all Masterworks active.
