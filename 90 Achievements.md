@@ -40,6 +40,8 @@ You've seen the cat, right?
 
 [You shoo it away every time you enter Lyceum](#s)
 
+[You'll need to take the cat with you](#s)
+
 [Make a copy of it using Garden from Black Light and beat Moon-3 with the cat on the table](#s)
 
 [You can do this on Slay Solari for added comedy.](#s)

@@ -56,9 +56,11 @@ apply them again/on other minions.
 
 ## Spells, maybes
 
-### Euphoria (rare, 5 mana)
-By the time you get this to half-decent numbers,
-Stoke will outweight it while costing nothing to cast.
+### Composting (rare, 2 mana)
+In a way similar to Mulligan, but you also get mana next round.
+
+Can be good if you're open to discarding your retain-able cards
+_or_ if you have a Levitator/Trash Fox to keep drawing cards.
 
 ### Adrenaline (rare, 0 mana)
 Can help with boosting cards mid-game,
@@ -66,15 +68,16 @@ but will also take up valuable hand space that could be occupied by freshly made
 
 Hard to get rid of!
 
-### Composting (rare, 2 mana)
-in a way similar to Mulligan, but you also get mana next round.
+### Euphoria (rare, 5 mana)
+By the time you get this to half-decent numbers,
+Stoke will out-do it while costing nothing to cast.
 
 ### Overcharge (legendary, 8 mana)
 Gives a minion +8/+8, costs 1 mana less for every spell cast this round.
 
 Once you get to half-decent numbers of star cards per round, this is free to cast.
 
-However, Stoke is also free, and will out-do this spell with.
+However, Stoke will out-do this one too.
 
 ## Minions, nice to have
 

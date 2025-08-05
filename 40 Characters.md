@@ -1,3 +1,5 @@
+General notes on
+
 ## Birdsong Reverie
 This is your formal invitation to try building a deck around flying minions - a good way to get your first victory.
 

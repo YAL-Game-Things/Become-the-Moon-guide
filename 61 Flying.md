@@ -1,4 +1,4 @@
-
+Not a whole lot of suitable relics for this one so you might commonly mix it with Magic/Discard.
 
 ## Relics
 
@@ -12,6 +12,7 @@ the effect stacks.
 Deals 10 damage to the attacker whenever a flying minion dodges.\
 Wing Extensions are semi-obligatory to get much use out of this.
 
+
 ## Characters
 
 ### Birdsong Reverie
@@ -24,6 +25,7 @@ Get two Wing Extensions or two Targeting Machines right off the bat.
 Better odds of getting both Wing Extensions and Targeting Machine(s),
 as well as potentially getting a game-breaking number of Wing Extensions -
 so if you had 3 of these, dodge chance would be 93%..?
+
 
 ## Minions
 
@@ -59,6 +61,7 @@ you can get a pretty good boost going.
 Attacks after a flying minion attacks.\
 If you get him flying and have Wing Commanders, Fogg will be getting quite a bit of a stat boost
 
+
 ## Minions (flying/magic)
 
 ### Farm witch (common, 2 mana)
@@ -71,8 +74,10 @@ Gives battle spells +1 power, but isn't this slightly expensive for using a mini
 if you're doing a magic/flying deck, you can line up Quick Cast spells
 and the dragon will keep hitting enemies between the casts.
 
+
 ## Spells
+
 ### Go Up (uncommon, 2 mana, exhausts)
 Give any card flight! 
 
-f you get some Fish cards going, you can mix in any cards you like.
+If you get some Fish cards going, you can mix in any cards you like.

@@ -39,7 +39,7 @@ Might be tricky to fit enough cards+relics for a mixed random damage / summon bu
 ## Battle spells
 
 ### Frost Bolt (common, 0 mana)
-Don't stick too many of these in your deck.
+It's 5 damage that you can double with a Sleeping Death, but still it's Not The Best.
 
 ### Hail (uncommon, 3 mana)
 3 damage per each of your minions, good once boosted.
